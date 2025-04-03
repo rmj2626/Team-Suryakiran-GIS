@@ -1,0 +1,1 @@
+The ONNX Model can be downloaded from this drive link - https://drive.google.com/drive/folders/19mJRzHm-JtmgPpa-GTgZFB183duJjjwT?usp=sharing
